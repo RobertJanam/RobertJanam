@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Robert Janam! 👋
 
-<!--
-**RobertJanam/RobertJanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Software Engineer. Proficient in Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Backend Development and Frontend Development as well😉
+- 🔭 Working on: Building a beginner fullstack web application
+- 🌍 Languages: Python, English and Swahili "if i may say"
+- 📫 How to reach me: robertbjanam@gmail.com || +254759665654
+- ⚡ Fun fact: When you find me drawing, i make a wierd face.
+
+## My Skills 🧠
+
+Python
+Html
+Css
+Circuit Design (Hobby)
