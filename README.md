@@ -1,6 +1,6 @@
 # Hi there, I'm Robert Janam! 👋
 
-![Hi there, I'm Robert Janam! 👋](./github-header-banner.png)
+![Header](./github-header-banner.png)
 
 ## About Me 🚀
 
