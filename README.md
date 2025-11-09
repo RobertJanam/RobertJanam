@@ -6,13 +6,13 @@ I'm an aspiring Software Engineer. Proficient in Python. I love tackling complex
 
 - 🌱 Currently learning: Backend Development and Frontend Development as well😉
 - 🔭 Working on: Building a beginner fullstack web application
-- 🌍 Languages: Python, English and Swahili "if i may say"
+- 🌍 Languages: Python, C, Html, PHP, English and Swahili "if i may say"
 - 📫 How to reach me: robertbjanam@gmail.com || +254759665654
-- ⚡ Fun fact: When you find me drawing, i make a wierd face.
+- ⚡ Fun fact: I am a cinephile, when you find me drawing--i make a wierd face.
 
 ## My Skills 🧠
 
-Python
-Html
-Css
-Circuit Design (Hobby)
+--> Python (proficient)
+--> Html Css
+--> PHP (beginner)
+--> Circuit Design (Hobby)
