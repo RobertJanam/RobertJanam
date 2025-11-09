@@ -1,6 +1,4 @@
-# Hi there, I'm Robert Janam! 👋
-
-![Header](./github-header-banner.png)
+![Header](./my_banner.png)
 
 ## About Me 🚀
 
