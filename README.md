@@ -8,4 +8,4 @@ I'm an aspiring Software Engineer. Proficient in Python. I love tackling complex
 - 🔭 Working on: Building a beginner fullstack web application
 - 🌍 Languages: Python, C, Html, PHP, English and Swahili "if i may say"
 - 📫 How to reach me: robertbjanam@gmail.com || +254759665654
-- ⚡ Fun fact: I am a cinephile, when you find me drawing--i make a wierd face.
+- ⚡ Fun fact: cinephile
